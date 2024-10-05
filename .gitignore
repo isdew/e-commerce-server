@@ -3,3 +3,4 @@ env
 README
 node_modules
 .vscode
+package*.json
